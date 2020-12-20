@@ -1,6 +1,6 @@
 # task_3_terraform_aws
 
-I was trying to setup OWASP ZAP, but aws_instansce stop working properly even if I add "sudo apt-get -y update" tu user_data
+I was trying to setup OWASP ZAP, but aws_instansce stop working properly even if I add "sudo apt-get -y update" to user_data
 
 I was planning to run it like this:
 
